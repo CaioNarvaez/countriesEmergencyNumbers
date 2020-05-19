@@ -1,0 +1,1074 @@
+[
+   {
+      "name": "Afghanistan",
+      "ambulance": "102",
+      "fire": "119"
+   },
+   {
+      "name": "Albania",
+      "ambulance": "127",
+      "fire": "128",
+      "police": "129",
+      "single": "112"
+   },
+   {
+      "name": "Algeria",
+      "ambulance": "14",
+      "fire": "14",
+      "police": "17"
+   },
+   {
+      "name": "American Samoa",
+      "single": "911"
+   },
+   {
+      "name": "Andorra",
+      "ambulance": "118",
+      "fire": "118",
+      "police": "110",
+      "single": "112"
+   },
+   {
+      "name": "Angola",
+      "ambulance": "118",
+      "fire": "118",
+      "police": "110"
+   },
+   {
+      "name": "Anguilla",
+      "fire": "(264) 497 2333",
+      "police": "(264) 497 2333",
+      "single": "911"
+   },
+   {
+      "name": "Antarctica",
+      "single": "911"
+   },
+   {
+      "name": "Antigua & Barbuda",
+      "single": "911"
+   },
+   {
+      "name": "Argentina",
+      "ambulance": "107",
+      "fire": "100",
+      "police": "101",
+      "single": "911"
+   },
+   {
+      "name": "Armenia",
+      "ambulance": "103",
+      "fire": "101",
+      "police": "102",
+      "single": "112"
+   },
+   {
+      "name": "Aruba",
+      "single": "911"
+   },
+   {
+      "name": "Ascension Island",
+      "ambulance": "6000",
+      "fire": "6412",
+      "police": "6666",
+      "single": "911"
+   },
+   {
+      "name": "Australia",
+      "single": "112"
+   },
+   {
+      "name": "Austria",
+      "ambulance": "144",
+      "fire": "122",
+      "police": "133",
+      "single": "112"
+   },
+   {
+      "name": "Azerbaijan",
+      "ambulance": "103",
+      "fire": "101",
+      "police": "102",
+      "single": "112"
+   },
+   {
+      "name": "Azores",
+      "ambulance": "292 642 328",
+      "fire": "292 679 300",
+      "police": "292 672 410",
+      "single": "112"
+   },
+   {
+      "name": "Bahamas",
+      "single": "911"
+   },
+   {
+      "name": "Bahrain",
+      "single": "999"
+   },
+   {
+      "name": "Bali",
+      "ambulance": "112",
+      "fire": "118",
+      "single": "101",
+      "police": "118"
+   },
+   {
+      "name": "Bangladesh",
+      "ambulance": "199",
+      "fire": "9 555 555",
+      "police": "999"
+   },
+   {
+      "name": "Barbados",
+      "ambulance": "511",
+      "fire": "311",
+      "police": "211"
+   },
+   {
+      "name": "Belarus",
+      "ambulance": "103",
+      "fire": "101",
+      "police": "102",
+      "single": "112"
+   },
+   {
+      "name": "Belgium",
+      "ambulance": "100",
+      "fire": "100",
+      "police": "101",
+      "single": "112"
+   },
+   {
+      "name": "Belize",
+      "ambulance": "90",
+      "fire": "90",
+      "police": "2272222",
+      "single": "911"
+   },
+   {
+      "name": "Benin",
+      "ambulance": "90-30-02",
+      "fire": "118",
+      "police": "117"
+   },
+   {
+      "name": "Bermuda",
+      "single": "911"
+   },
+   {
+      "name": "Bhutan",
+      "ambulance": "110",
+      "fire": "112",
+      "police": "113"
+   },
+   {
+      "name": "Bolivia",
+      "ambulance": "118",
+      "fire": "119",
+      "police": "110"
+   },
+   {
+      "name": "Bonaire",
+      "single": "911"
+   },
+   {
+      "name": "Bosnia",
+      "ambulance": "94",
+      "fire": "93",
+      "police": "92"
+   },
+   {
+      "name": "Botswana",
+      "ambulance": "997",
+      "fire": "998",
+      "police": "999",
+      "single": "911"
+   },
+   {
+      "name": "Brazil",
+      "ambulance": "192",
+      "fire": "193",
+      "police": "190"
+   },
+   {
+      "name": "British Virgin Islands",
+      "single": "999"
+   },
+   {
+      "name": "Brunei",
+      "ambulance": "991",
+      "fire": "995",
+      "police": "993"
+   },
+   {
+      "name": "Bulgaria",
+      "single": "112"
+   },
+   {
+      "name": "Burkina Faso",
+      "fire": "18",
+      "police": "17"
+   },
+   {
+      "name": "Burma",
+      "ambulance": "192",
+      "fire": "191",
+      "police": "199",
+      "single": "999"
+   },
+   {
+      "name": "Burundi",
+      "single": "112"
+   },
+   {
+      "name": "Cambodia",
+      "ambulance": "119",
+      "fire": "118",
+      "police": "117"
+   },
+   {
+      "name": "Cameroon",
+      "ambulance": "119",
+      "fire": "118",
+      "police": "117",
+      "single": "112"
+   },
+   {
+      "name": "Canada",
+      "single": "911"
+   },
+   {
+      "name": "Canary Islands",
+      "ambulance": "061",
+      "fire": "080",
+      "police": "092",
+      "single": "112"
+   },
+   {
+      "name": "Cape Verde",
+      "ambulance": "130",
+      "fire": "131",
+      "police": "132"
+   },
+   {
+      "name": "Cayman Islands",
+      "single": "911"
+   },
+   {
+      "name": "Central African Republic",
+      "police": "236"
+   },
+   {
+      "name": "Chad",
+      "fire": "18",
+      "police": "17"
+   },
+   {
+      "name": "Chile",
+      "ambulance": "131",
+      "fire": "132",
+      "police": "133"
+   },
+   {
+      "name": "China",
+      "ambulance": "120",
+      "fire": "119",
+      "single": "112",
+      "police": "110"
+   },
+   {
+      "name": "Christmas Islands",
+      "single": "000"
+   },
+   {
+      "name": "Columbia",
+      "ambulance": "132",
+      "fire": "119",
+      "police": "156",
+      "single": "112"
+   },
+   {
+      "name": "Comoros Islands",
+      "police": "7734 663"
+   },
+   {
+      "name": "Congo",
+      "police": "665 4804"
+   },
+   {
+      "name": "Cook Islands",
+      "ambulance": "998",
+      "fire": "996",
+      "police": "999"
+   },
+   {
+      "name": "Costa Rica",
+      "single": "112"
+   },
+   {
+      "name": "Croatia",
+      "ambulance": "194",
+      "fire": "193",
+      "police": "192",
+      "single": "112"
+   },
+   {
+      "name": "Cuba",
+      "single": "116"
+   },
+   {
+      "name": "Cyprus",
+      "single": "112"
+   },
+   {
+      "name": "Czech Republic",
+      "ambulance": "155",
+      "fire": "150",
+      "police": "158",
+      "single": "112"
+   },
+   {
+      "name": "Denmark",
+      "single": "112"
+   },
+   {
+      "name": "Djibouti",
+      "ambulance": "351351",
+      "fire": "18",
+      "police": "17"
+   },
+   {
+      "name": "Dominican Republic",
+      "single": "112"
+   },
+   {
+      "name": "Easter Island",
+      "ambulance": "215",
+      "fire": "264",
+      "police": "244",
+      "single": "100"
+   },
+   {
+      "name": "Ecuador",
+      "fire": "102",
+      "police": "101",
+      "single": "911"
+   },
+   {
+      "name": "Egypt",
+      "ambulance": "123",
+      "fire": "180",
+      "police": "112"
+   },
+   {
+      "name": "El Salvador",
+      "single": "911"
+   },
+   {
+      "name": "England",
+      "single": "112"
+   },
+   {
+      "name": "Ethiopia",
+      "ambulance": "92",
+      "fire": "93",
+      "police": "91"
+   },
+   {
+      "name": "Faeroe Islands",
+      "single": "112"
+   },
+   {
+      "name": "Fiji",
+      "ambulance": "911",
+      "fire": "9170",
+      "police": "911"
+   },
+   {
+      "name": "Finland",
+      "single": "112"
+   },
+   {
+      "name": "France",
+      "ambulance": "15",
+      "fire": "18",
+      "police": "17",
+      "single": "112"
+   },
+   {
+      "name": "French Guiana",
+      "ambulance": "15",
+      "fire": "18",
+      "police": "17"
+   },
+   {
+      "name": "French Polynesia",
+      "ambulance": "15",
+      "fire": "18",
+      "police": "17"
+   },
+   {
+      "name": "Gabon",
+      "ambulance": "1300-1399",
+      "fire": "18",
+      "police": "1730"
+   },
+   {
+      "name": "Georgia",
+      "ambulance": "113",
+      "fire": "111",
+      "police": "122"
+   },
+   {
+      "name": "Germany",
+      "police": "110",
+      "single": "112"
+   },
+   {
+      "name": "Ghana",
+      "ambulance": "193",
+      "fire": "192",
+      "police": "191",
+      "single": "999"
+   },
+   {
+      "ambulance": "190",
+      "fire": "190",
+      "police": "199",
+      "single": "112"
+   },
+   {
+      "name": "Greece",
+      "ambulance": "166",
+      "fire": "199",
+      "police": "100",
+      "single": "112"
+   },
+   {
+      "name": "Greenland",
+      "single": "112"
+   },
+   {
+      "name": "Grenada",
+      "single": "911"
+   },
+   {
+      "name": "Guatemala",
+      "ambulance": "120",
+      "fire": "123",
+      "police": "110"
+   },
+   {
+      "name": "Guyana",
+      "ambulance": "913",
+      "fire": "912",
+      "police": "911",
+      "single": "911"
+   },
+   {
+      "name": "Haiti",
+      "ambulance": "118",
+      "police": "114"
+   },
+   {
+      "name": "Honduras",
+      "single": "199"
+   },
+   {
+      "name": "Hong Kong",
+      "single": "112"
+   },
+   {
+      "name": "Hungary",
+      "ambulance": "104",
+      "fire": "105",
+      "police": "107",
+      "single": "112"
+   },
+   {
+      "name": "Iceland",
+      "single": "112"
+   },
+   {
+      "name": "India",
+      "ambulance": "102",
+      "fire": "101",
+      "police": "100"
+   },
+   {
+      "name": "Indonesia",
+      "ambulance": "119",
+      "fire": "113",
+      "police": "110"
+   },
+   {
+      "name": "Iran",
+      "ambulance": "115",
+      "fire": "125",
+      "police": "110"
+   },
+   {
+      "name": "Ireland",
+      "single": "112"
+   },
+   {
+      "name": "Isle of Man",
+      "single": "112"
+   },
+   {
+      "name": "Israel",
+      "ambulance": "101",
+      "fire": "102",
+      "police": "100"
+   },
+   {
+      "name": "Italy",
+      "ambulance": "118",
+      "fire": "115",
+      "police": "113",
+      "single": "112"
+   },
+   {
+      "name": "Jamaica",
+      "ambulance": "110",
+      "fire": "110",
+      "police": "119"
+   },
+   {
+      "name": "Japan",
+      "ambulance": "119",
+      "fire": "119",
+      "police": "110"
+   },
+   {
+      "name": "Jersey",
+      "single": "999"
+   },
+   {
+      "name": "Jordan",
+      "single": "112"
+   },
+   {
+      "name": "Kazakhstan",
+      "ambulance": "103",
+      "fire": "101",
+      "police": "102",
+      "single": "112"
+   },
+   {
+      "name": "Kenya",
+      "single": "999"
+   },
+   {
+      "name": "Kiribati",
+      "single": "994"
+   },
+   {
+      "name": "North Korea",
+      "single": "112"
+   },
+   {
+      "name": "South Korea",
+      "ambulance": "119",
+      "fire": "119",
+      "police": "112"
+   },
+   {
+      "name": "Kosovo",
+      "single": "911"
+   },
+   {
+      "name": "Kuwait",
+      "single": "112"
+   },
+   {
+      "name": "Latvia",
+      "ambulance": "3",
+      "fire": "1",
+      "police": "2",
+      "single": "112"
+   },
+   {
+      "name": "Lebanon",
+      "ambulance": "140",
+      "fire": "175",
+      "police": "112"
+   },
+   {
+      "name": "Lesotho",
+      "ambulance": "121",
+      "fire": "122",
+      "police": "123"
+   },
+   {
+      "name": "Liberia",
+      "single": "911"
+   },
+   {
+      "name": "Libya",
+      "single": "193"
+   },
+   {
+      "name": "Liechtesntein",
+      "single": "112"
+   },
+   {
+      "name": "Lithuania",
+      "single": "112"
+   },
+   {
+      "name": "Luxembourg",
+      "police": "113",
+      "single": "112"
+   },
+   {
+      "name": "Macau",
+      "single": "999"
+   },
+   {
+      "name": "Macedonia",
+      "ambulance": "194",
+      "fire": "193",
+      "police": "192",
+      "single": "112"
+   },
+   {
+      "name": "Madagascar",
+      "fire": "118",
+      "police": "117"
+   },
+   {
+      "name": "Malawi",
+      "ambulance": "998",
+      "fire": "999",
+      "police": "997"
+   },
+   {
+      "name": "Malaysia",
+      "single": "112"
+   },
+   {
+      "name": "Maldives",
+      "single": "102"
+   },
+   {
+      "name": "Mali",
+      "ambulance": "15",
+      "fire": "17",
+      "police": "18"
+   },
+   {
+      "name": "Malta",
+      "single": "112"
+   },
+   {
+      "name": "Mauritania",
+      "fire": "118",
+      "police": "117"
+   },
+   {
+      "name": "Menorca",
+      "police": "091",
+      "single": "112"
+   },
+   {
+      "name": "Mexico",
+      "single": "991",
+      "ambulance": "65",
+      "fire": "68",
+      "police": "66"
+   },
+   {
+      "name": "Moldavia",
+      "ambulance": "903",
+      "fire": "901",
+      "police": "902",
+      "single": "112"
+   },
+   {
+      "name": "Monaco",
+      "single": "112"
+   },
+   {
+      "name": "Mongolia",
+      "ambulance": "103",
+      "fire": "101",
+      "police": "102"
+   },
+   {
+      "name": "Montenegro",
+      "ambulance": "124",
+      "fire": "123",
+      "police": "122",
+      "single": "112"
+   },
+   {
+      "name": "Montserrat",
+      "ambulance": "911",
+      "police": "999"
+   },
+   {
+      "name": "Morocco",
+      "ambulance": "15",
+      "fire": "15",
+      "police": "19"
+   },
+   {
+      "name": "Moyotte",
+      "single": "15"
+   },
+   {
+      "name": "Mozambique",
+      "ambulance": "117",
+      "fire": "198",
+      "police": "119"
+   },
+   {
+      "name": "Namibia",
+      "ambulance": "2032276",
+      "fire": "2032270",
+      "police": "1011"
+   },
+   {
+      "name": "Nepal",
+      "ambulance": "102",
+      "fire": "101",
+      "police": "103"
+   },
+   {
+      "name": "Netherlands",
+      "single": "112"
+   },
+   {
+      "name": "New Zealand",
+      "single": "111"
+   },
+   {
+      "name": "Nicaragua",
+      "single": "118"
+   },
+   {
+      "name": "Nigeria",
+      "single": "199"
+   },
+   {
+      "name": "Nothern Ireland",
+      "ambulance": "113",
+      "fire": "110",
+      "police": "112"
+   },
+   {
+      "name": "Norway",
+      "ambulance": "113",
+      "fire": "110",
+      "police": "112"
+   },
+   {
+      "name": "Oman",
+      "single": "999"
+   },
+   {
+      "name": "Pakistan",
+      "ambulance": "115",
+      "fire": "16",
+      "police": "15"
+   },
+   {
+      "name": "Palestine",
+      "ambulance": "101",
+      "fire": "101",
+      "police": "100"
+   },
+   {
+      "name": "Panama",
+      "single": "911"
+   },
+   {
+      "name": "Papua New Guinea",
+      "fire": "1102",
+      "police": "2"
+   },
+   {
+      "name": "Paraguay",
+      "single": "911"
+   },
+   {
+      "name": "Peru",
+      "ambulance": "117",
+      "fire": "116",
+      "police": "105"
+   },
+   {
+      "name": "Philippines",
+      "single": "112"
+   },
+   {
+      "name": "Poland",
+      "ambulance": "999",
+      "fire": "998",
+      "police": "997",
+      "single": "112"
+   },
+   {
+      "name": "Portugal",
+      "single": "112"
+   },
+   {
+      "name": "Puerto Rico",
+      "single": "911"
+   },
+   {
+      "name": "Qatar",
+      "single": "999"
+   },
+   {
+      "name": "Romania",
+      "single": "112"
+   },
+   {
+      "name": "Russia",
+      "single": "112"
+   },
+   {
+      "name": "Rwanda",
+      "single": "112"
+   },
+   {
+      "name": "Samoa",
+      "single": "999"
+   },
+   {
+      "name": "San Marino",
+      "ambulance": "118",
+      "fire": "115",
+      "police": "113"
+   },
+   {
+      "name": "Saudi Arabia",
+      "ambulance": "997",
+      "fire": "998",
+      "police": "999"
+   },
+   {
+      "name": "Scotland",
+      "single": "112"
+   },
+   {
+      "name": "Serbia",
+      "ambulance": "194",
+      "fire": "193",
+      "police": "192",
+      "single": "112"
+   },
+   {
+      "name": "Seychelles",
+      "single": "999"
+   },
+   {
+      "name": "Sierra Leone",
+      "ambulance": "999",
+      "fire": "19",
+      "police": "999"
+   },
+   {
+      "name": "Singapore",
+      "ambulance": "995",
+      "fire": "995",
+      "police": "999"
+   },
+   {
+      "name": "Slovakia",
+      "ambulance": "155",
+      "fire": "150",
+      "police": "158",
+      "single": "112"
+   },
+   {
+      "name": "Slovenia",
+      "police": "113",
+      "single": "112"
+   },
+   {
+      "name": "Solomon Islands",
+      "single": "999"
+   },
+   {
+      "name": "South Africa",
+      "ambulance": "10177",
+      "fire": "10111",
+      "police": "10111"
+   },
+   {
+      "name": "South Africa",
+      "single": "107"
+   },
+   {
+      "name": "Spain",
+      "single": "112"
+   },
+   {
+      "name": "Sri Lanka",
+      "ambulance": "110",
+      "fire": "111",
+      "police": "119"
+   },
+   {
+      "name": "Sudan",
+      "single": "999"
+   },
+   {
+      "name": "Suriname",
+      "single": "115"
+   },
+   {
+      "name": "Swaziland",
+      "single": "999"
+   },
+   {
+      "name": "Sweden",
+      "single": "112"
+   },
+   {
+      "name": "Switzerland",
+      "ambulance": "144",
+      "fire": "118",
+      "police": "117",
+      "single": "112"
+   },
+   {
+      "name": "Syria",
+      "ambulance": "110",
+      "fire": "113",
+      "police": "112"
+   },
+   {
+      "name": "Taiwan",
+      "ambulance": "119",
+      "fire": "119",
+      "police": "110"
+   },
+   {
+      "name": "Tajikistan",
+      "ambulance": "103",
+      "fire": "101",
+      "police": "102",
+      "single": "112"
+   },
+   {
+      "name": "Tanzania",
+      "single": "112"
+   },
+   {
+      "name": "Thailand",
+      "ambulance": "1669",
+      "fire": "199",
+      "police": "191"
+   },
+   {
+      "name": "Tibet",
+      "ambulance": "120",
+      "police": "110"
+   },
+   {
+      "name": "Togo",
+      "single": "101"
+   },
+   {
+      "name": "Tonga",
+      "single": "911"
+   },
+   {
+      "name": "Trinidad & Tobago",
+      "ambulance": "990",
+      "fire": "990",
+      "police": "999"
+   },
+   {
+      "name": "Tunisia",
+      "ambulance": "190",
+      "fire": "198",
+      "police": "197"
+   },
+   {
+      "name": "Turkey",
+      "fire": "110",
+      "police": "155",
+      "single": "112"
+   },
+   {
+      "name": "Turkmenistan",
+      "single": "3"
+   },
+   {
+      "name": "Uganda",
+      "single": "112"
+   },
+   {
+      "name": "Ukraine",
+      "single": "112"
+   },
+   {
+      "name": "Abu Dhabi",
+      "ambulance": "999",
+      "fire": "997",
+      "police": "112"
+   },
+   {
+      "name": "United Kingdom",
+      "single": "112"
+   },
+   {
+      "name": "United States",
+      "single": "911"
+   },
+   {
+      "name": "Uruguay",
+      "single": "911"
+   },
+   {
+      "name": "Uzbekistan",
+      "single": "3"
+   },
+   {
+      "name": "Vanuatu",
+      "single": "112"
+   },
+   {
+      "name": "Vatican",
+      "ambulance": "118",
+      "fire": "115",
+      "police": "113"
+   },
+   {
+      "name": "Venezuela",
+      "single": "171"
+   },
+   {
+      "name": "Vietnam",
+      "ambulance": "115",
+      "fire": "114",
+      "police": "113"
+   },
+   {
+      "name": "Yemen",
+      "ambulance": "191",
+      "fire": "191",
+      "police": "194"
+   },
+   {
+      "name": "Zaire",
+      "police": "665 4804"
+   },
+   {
+      "name": "Zambia",
+      "single": "112"
+   },
+   {
+      "name": "Zimbabwe",
+      "ambulance": "994",
+      "fire": "993",
+      "police": "995",
+      "single": "999"
+   }
+]
